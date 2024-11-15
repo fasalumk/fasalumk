@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Fasalu Rahman MK </br> A Developer & Designer from Kerala, India</h1>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fasalumk&show_icons=true&locale=en" alt="fasalumk" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fasalumk&show_icons=true&locale=en&layout=compact" alt="fasalumk" /></p>
+<img alt="my stats" align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=fasalumk"/>
+<img alt="top langs" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasalumk&layout=compact" />
 
 
 <p align="center">
