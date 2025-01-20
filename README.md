@@ -59,5 +59,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="37" alt="git logo"  />
 </div>
 <div align="center">
-<img src="https://raw.githubusercontent.com/fasalumk/fasalumk/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
