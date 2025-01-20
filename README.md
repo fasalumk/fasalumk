@@ -18,7 +18,7 @@
   <a href="https://www.facebook.com/fasalumkm/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="30" alt="facebook logo"  />
   </a>
-  <a href="fasalumk2009@gmail.com" target="_blank">
+  <a href="fasalubinabdu@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.behance.net/fasalumk" target="_blank">
